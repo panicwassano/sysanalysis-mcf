@@ -3,6 +3,6 @@
 - [eventstorming](./mcf_eventstorming.pdf)
 - [data model](./dm.pdf)
 - [communications](./communications.png)
-- [services](./services.png)
+- [structure](./structure.png)
 
 ## Разделение на сервисы
