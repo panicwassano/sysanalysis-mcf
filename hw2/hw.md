@@ -41,7 +41,7 @@ _Управление качеством_ и _мотивация персона�
 
 Event Storming
 ------
-![Event Storming](./mcf_eventstorming_subdomains.pdf)
+[Event Storming](./mcf_eventstorming_subdomains.pdf)
 
 Data model
 ------
