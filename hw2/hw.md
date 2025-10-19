@@ -62,4 +62,4 @@ Data model
 
 Коммуникации
 ------
-![Commucations](./communications.png)
+![Commucations](./communcations.png)
