@@ -25,3 +25,7 @@
 Domain chart
 ------
 ![Domain chart](./domain_chart.png)
+
+Bounded contexts
+------
+![Bounded contexts](./bounded_contexts.png)
