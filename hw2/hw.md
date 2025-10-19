@@ -60,6 +60,12 @@ Data model
 | maintainability, readability, supportability | 2 supporting-поддомена |
 | installability, readability, supportability | 1 generic-поддомен |
 
+Архитектурный стиль
+------
+Выделим наиболее важные для проекта характеристики (на основе TTM и требованиям к core-поддоменам) и обозначим их на таблице архитектурных стилей. Лучше всего нашим требованиям удовлетворяет микросервисная архитектура.
+***
+![Architecture style](./architecture.png)
+
 Коммуникации
 ------
 ![Commucations](./communcations.png)
