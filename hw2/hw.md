@@ -59,3 +59,7 @@ Data model
 | availability, continuity, reliability, еxtensibility, modifiability, maintainability, supportability, readability, accessibility, security, usability | 2 core-поддомена (найм + матчинг) являются конкурентным преимуществом |
 | maintainability, readability, supportability | 2 supporting-поддомена |
 | installability, readability, supportability | 1 generic-поддомен |
+
+Коммуникации
+------
+![Commucations](./communications.png)
