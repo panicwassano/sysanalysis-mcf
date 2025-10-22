@@ -30,6 +30,10 @@ Bounded contexts
 ------
 ![Bounded contexts](./bounded_contexts.png)
 
+Bounded contexts map
+------
+![Bounded contexts map](./bounded_contexts_map.png)
+
 Сравнение bounded contexts с предыдущей версией
 ------
 ![Bounded contexts diff](./bounded_contexts_diff.png)
