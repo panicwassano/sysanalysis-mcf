@@ -18,6 +18,10 @@
 ------
 ![Concerns](./concerns.png)
 
+Обновленные bounded contexts
+------
+![Update bounded contexts](./updated_bounded_contexts.png)
+
 Ограничения
 ------
 - инфраструктуру считаем бесплатной
