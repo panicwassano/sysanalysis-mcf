@@ -36,3 +36,4 @@
 | installability, readability, supportability | 1 generic-поддомен |
 | deployability | консерн топ-менеджеров |
 | сonsistency | требования к финансовым операциям |
+| observability, monitorability | консерн админов и разработчиков |
