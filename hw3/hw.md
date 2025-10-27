@@ -13,3 +13,7 @@
 Матрица влияние-интерес
 ------
 ![Matrix](./matrix.png)
+
+Консёрны
+------
+![Concerns](./concerns.png)
