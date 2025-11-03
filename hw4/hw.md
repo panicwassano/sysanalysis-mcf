@@ -1,5 +1,13 @@
 Схемы v4
 ======
+Текущая система
+------
+![services](./services.png)
+
+Целевая система
+------
+![services](./target_services.png)
+
 Подсчет Instability
 ------
 TODO
